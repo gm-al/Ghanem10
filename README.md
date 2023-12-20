@@ -1,7 +1,6 @@
 ## Hi there, this is Gani 👋
 
 - 🔭 I’m currently working on building a chess engine in Rust.
-- 🌱 I’m currently learning Rust.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about the universe or my thoughts about AI.
 - 📫 How to reach me: DM.
