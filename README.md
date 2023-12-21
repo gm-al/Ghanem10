@@ -1,4 +1,4 @@
-## Hi there, this is Gani 👋
+## Hey, this is Gani 👋
 
 - 🔭 I’m currently working on building a chess engine in Rust.
 - 👯 I’m looking to collaborate on open-source projects.
