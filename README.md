@@ -4,7 +4,6 @@
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about the universe or my thoughts about AI.
 - 📫 How to reach me: DM.
-- ⚡ Fun fact: I love playing chess, and building complex stuff.
 
 ## Tech stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
