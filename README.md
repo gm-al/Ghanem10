@@ -32,3 +32,8 @@
 ![RESTful API](https://img.shields.io/badge/RESTful_API-005571?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge)
 
+<br />
+<br />
+
+## Most used tools
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghanem10&show_icons=true&theme=dark&hide=tcl,html,css,powershell,scss,shaderlab)](https://github.com/anuraghazra/github-readme-stats)
