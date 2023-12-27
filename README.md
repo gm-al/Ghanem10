@@ -5,7 +5,6 @@
 - 💬 Ask me about the universe or my thoughts about AI.
 - 📫 How to reach me: DM.
  <br />
-  <br />
 
 ## Tech stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -32,7 +31,6 @@
 ![RESTful API](https://img.shields.io/badge/RESTful_API-005571?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge)
 
-<br />
 <br />
 
 ## Most used tools
