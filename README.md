@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on everything.
 - 👯 I’m looking to collaborate on open-source projects.
-- 💬 Ask me about the universe or my thoughts about AI.
 - 📫 How to reach me: DM.
  <br />
 
